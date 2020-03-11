@@ -73,9 +73,7 @@ geoServerUploader<-function(localConfObj,bioModelObj,sftpConfObj,GeoConfObj,mong
       },
       "keywords": {
         "string": [
-          "',bioModelObj$acceptedNameUsage,'",
-          "',bioModelObj$method,'",
-          "',bioModelObj$status,'",
+          ',bioModelObj$keywords,'
         ]
       },
       "name": "',bioModelObj$modelID,'",
