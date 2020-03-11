@@ -1,2 +1,5 @@
+personal/
+kitematic/
 .rstudio
 .Rhistory
+.cache/
