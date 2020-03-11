@@ -3,3 +3,4 @@ kitematic/
 .rstudio
 .Rhistory
 .cache/
+.config/
